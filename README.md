@@ -75,7 +75,7 @@ Repositório de registro e evidências da microcredencial **AWS Serverless Demon
 
 ---
 
-## 🏆 Credencial
+## 🏆 Microcredencial
 
 <p align="center">
   <img src="assets/serverless-demonstrated.webp" alt="AWS Serverless Demonstrated Badge" width="180"/>
